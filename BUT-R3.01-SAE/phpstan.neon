@@ -1,0 +1,10 @@
+parameters:
+    level: 1
+    paths:
+        - public/index.php
+        - src
+        - core/model.php
+        - core/includes
+        - core/utils
+    ignoreErrors:
+
